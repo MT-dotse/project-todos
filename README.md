@@ -15,3 +15,5 @@ The aim of the project was to build a TODO app using React, Redux, JSX and style
 ## View it live
 
 https://mt-dotse-todo.netlify.app/
+
+![image](https://github.com/user-attachments/assets/d9eefc30-f81d-4b0c-aefd-744b8684f48e)
